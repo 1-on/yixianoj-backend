@@ -12,7 +12,7 @@ import lombok.Data;
  * 帖子收藏
  *
  * @author <a href="https://github.com/1-on">一弦</a>
- * @from <a href="https://yixian.icu">编程导航知识星球</a>
+ * yixianoj-backend
  **/
 @TableName(value = "post_favour")
 @Data

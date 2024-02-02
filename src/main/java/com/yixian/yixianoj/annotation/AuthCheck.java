@@ -9,7 +9,7 @@ import java.lang.annotation.Target;
  * 权限校验
  *
  * @author <a href="https://github.com/1-on">一弦</a>
- * @from <a href="https://yixian.icu">编程导航知识星球</a>
+ * yixianoj-backend
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

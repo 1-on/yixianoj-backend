@@ -17,7 +17,7 @@ import org.springframework.web.context.request.ServletRequestAttributes;
  * 请求响应日志 AOP
  *
  * @author <a href="https://github.com/1-on">一弦</a>
- * @from <a href="https://yixian.icu">编程导航知识星球</a>
+ * yixianoj-backend
  **/
 @Aspect
 @Component

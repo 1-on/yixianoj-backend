@@ -12,7 +12,7 @@ import com.yixian.yixianoj.model.entity.User;
  * 帖子收藏服务
  *
  * @author <a href="https://github.com/1-on">一弦</a>
- * @from <a href="https://yixian.icu">编程导航知识星球</a>
+ * yixianoj-backend
  */
 public interface PostFavourService extends IService<PostFavour> {
 

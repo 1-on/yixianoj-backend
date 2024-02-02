@@ -16,7 +16,7 @@ import org.springframework.scheduling.annotation.Scheduled;
  * 增量同步帖子到 es
  *
  * @author <a href="https://github.com/1-on">一弦</a>
- * @from <a href="https://yixian.icu">编程导航知识星球</a>
+ * yixianoj-backend
  */
 // todo 取消注释开启任务
 //@Component

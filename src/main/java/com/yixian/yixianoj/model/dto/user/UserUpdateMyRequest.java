@@ -7,7 +7,7 @@ import lombok.Data;
  * 用户更新个人信息请求
  *
  * @author <a href="https://github.com/1-on">一弦</a>
- * @from <a href="https://yixian.icu">编程导航知识星球</a>
+ * yixianoj-backend
  */
 @Data
 public class UserUpdateMyRequest implements Serializable {

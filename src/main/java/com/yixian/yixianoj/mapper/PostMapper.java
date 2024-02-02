@@ -9,7 +9,7 @@ import java.util.List;
  * 帖子数据库操作
  *
  * @author <a href="https://github.com/1-on">一弦</a>
- * @from <a href="https://yixian.icu">编程导航知识星球</a>
+ * yixianoj-backend
  */
 public interface PostMapper extends BaseMapper<Post> {
 
