@@ -1,5 +1,6 @@
-package com.yixian.yixianoj.mapper;
+package com.yixian.springbootinit.mapper;
 
+import com.yixian.yixianoj.mapper.PostMapper;
 import com.yixian.yixianoj.model.entity.Post;
 import java.util.Date;
 import java.util.List;
@@ -12,7 +13,7 @@ import org.springframework.boot.test.context.SpringBootTest;
  * 帖子数据库操作测试
  *
  * @author <a href="https://github.com/1-on">一弦</a>
- * @from <a href="https://yixian.icu">编程导航知识星球</a>
+ * yixianoj-backend
  */
 @SpringBootTest
 class PostMapperTest {

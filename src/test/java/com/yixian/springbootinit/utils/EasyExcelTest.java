@@ -1,4 +1,4 @@
-package com.yixian.yixianoj.utils;
+package com.yixian.springbootinit.utils;
 
 import com.alibaba.excel.EasyExcel;
 import com.alibaba.excel.support.ExcelTypeEnum;
@@ -15,7 +15,7 @@ import java.util.Map;
  * EasyExcel 测试
  *
  * @author <a href="https://github.com/1-on">一弦</a>
- * @from <a href="https://yixian.icu">编程导航知识星球</a>
+ * yixianoj-backend
  */
 @SpringBootTest
 public class EasyExcelTest {

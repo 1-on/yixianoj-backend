@@ -1,5 +1,6 @@
-package com.yixian.yixianoj.esdao;
+package com.yixian.springbootinit.esdao;
 
+import com.yixian.yixianoj.esdao.PostEsDao;
 import com.yixian.yixianoj.model.dto.post.PostEsDTO;
 import com.yixian.yixianoj.model.dto.post.PostQueryRequest;
 import com.yixian.yixianoj.model.entity.Post;
@@ -19,7 +20,7 @@ import org.springframework.data.domain.Sort;
  * 帖子 ES 操作测试
  *
  * @author <a href="https://github.com/1-on">一弦</a>
- * @from <a href="https://yixian.icu">编程导航知识星球</a>
+ * yixianoj-backend
  */
 @SpringBootTest
 public class PostEsDaoTest {

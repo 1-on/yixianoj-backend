@@ -1,6 +1,8 @@
-package com.yixian.yixianoj.service;
+package com.yixian.springbootinit.service;
 
 import javax.annotation.Resource;
+
+import com.yixian.yixianoj.service.UserService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -9,7 +11,7 @@ import org.springframework.boot.test.context.SpringBootTest;
  * 用户服务测试
  *
  * @author <a href="https://github.com/1-on">一弦</a>
- * @from <a href="https://yixian.icu">编程导航知识星球</a>
+ * yixianoj-backend
  */
 @SpringBootTest
 public class UserServiceTest {

@@ -1,4 +1,4 @@
-package com.yixian.yixianoj;
+package com.yixian.springbootinit;
 
 import com.yixian.yixianoj.config.WxOpenConfig;
 import javax.annotation.Resource;
@@ -9,7 +9,7 @@ import org.springframework.boot.test.context.SpringBootTest;
  * 主类测试
  *
  * @author <a href="https://github.com/1-on">一弦</a>
- * @from <a href="https://yixian.icu">编程导航知识星球</a>
+ * yixianoj-backend
  */
 @SpringBootTest
 class MainApplicationTests {
